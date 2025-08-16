@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nesrine</h1>
-<h3 align="center">CS student at ESI-Algiers</h3>
+<h3 align="center">3rd year CS student at ESI-Algiers</h3>
 <img align="right" width="300px" alt="coding" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesrinetahmi&label=Profile%20views&color=0e75b6&style=flat" alt="nesrinetahmi" /> </p>
 
-- 🌱 I’m currently learning **Backend developement**
-
-- 💬 Ask me about **Design, Web Dev**
+- 🌱 I’m currently learning **Backend developement & game developement**
 
 - 📫 How to reach me **nn_tahmi@esi.dz**
 
