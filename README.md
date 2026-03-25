@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nesrine+%F0%9F%91%8B;ML+%26+AI+Engineer+in+the+making;Math+first%2C+models+second+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nesrine+%F0%9F%91%8B;3rd+Year+CS+Student+at+ESI;AI+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,15 +8,16 @@
 
 ## 💫 About Me
 
-- 🔭 Currently experimenting with **optimization problems, reinforcement learning environments, and ML pipelines**
-- 🌱 Actively learning **Computer Vision** and **Reinforcement Learning**
-- 👯 Looking to collaborate on **AI/ML projects** — NLP, Computer Vision, RL, Kaggle & datathon competitions
-- 🤝 Seeking guidance on **advanced ML techniques**, model evaluation, and turning theory into practical AI solutions
-- ⚡ *I trust math first, models second, and only then the results.*
+- 🎓 **Education:** 3rd-year Computer Science student at **ESI (Ecole Nationale Supérieure d'Informatique)**.
+- 🔭 **Current Focus:** Working on optimization problems, reinforcement learning environments, and ML pipelines.
+- 🌱 **Learning:** Deepening my knowledge in **Computer Vision** and **Reinforcement Learning**.
+- 👯 **Collaboration:** Looking to join teams for NLP, CV, or RL projects, as well as Kaggle competitions.
+- 🤝 **Goal:** Moving from theoretical math to building practical AI solutions.*
 
 ---
 
-## 💻 Tech Stack
+ ## 💻 Tech Stack
+
 
 **Languages**
 
@@ -51,11 +52,11 @@
 
 **Other**
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
 <div align="center">
 
@@ -63,14 +64,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NesrineTahmi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
-### 🔝 Top Contributed Repos
-
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=NesrineTahmi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something cool together!</i>
+  <b>Let's connect and build something together!</b>
 </div>
