@@ -60,11 +60,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NesrineTahmi&theme=tokyonight&hide_border=false)
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NesrineTahmi&layout=compact&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NesrineTahmi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=NesrineTahmi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NesrineTahmi&theme=radical&card_width=500" />
 
 </div>
 
