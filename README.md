@@ -59,11 +59,6 @@
 ## 📊 Stats & Activity
 
 <div align="center">
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NesrineTahmi&layout=compact&theme=radical&langs_count=8&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NesrineTahmi&theme=radical&card_width=500" />
 
 </div>
