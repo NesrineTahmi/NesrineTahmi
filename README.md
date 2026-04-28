@@ -10,9 +10,9 @@
 
 - 🎓 **Education:** 3rd-year Computer Science student at **ESI (Ecole Nationale Supérieure d'Informatique)**.
 - 🔭 **Current Focus:** Working on optimization problems, reinforcement learning environments, and ML pipelines.
-- 🌱 **Learning:** Deepening my knowledge in **Computer Vision** and **Reinforcement Learning**.
-- 👯 **Collaboration:** Looking to join teams for NLP, CV, or RL projects, as well as Kaggle competitions.
-- 🤝 **Goal:** Moving from theoretical math to building practical AI solutions.*
+- 🌱 **Learning:** Deepening my knowledge in **Reinforcement Learning**.
+- 👯 **Collaboration:** Looking to join teams for NLP, or RL projects, as well as Kaggle competitions.
+- 🤝 **Goal:** Moving from theoretical math to building practical AI solutions.
 
 ---
 
