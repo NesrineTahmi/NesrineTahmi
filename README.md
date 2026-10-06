@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nesrine+%F0%9F%91%8B;3rd+Year+CS+Student+at+ESI;AI+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nesrine+%F0%9F%91%8B;4th+Year+CS+Student+at+ESI;AI+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ## 💫 About Me
 
-- 🎓 **Education:** 3rd-year Computer Science student at **ESI (Ecole Nationale Supérieure d'Informatique)**.
-- 🔭 **Current Focus:** Working on optimization problems, reinforcement learning environments, and ML pipelines.
-- 🌱 **Learning:** Deepening my knowledge in **Reinforcement Learning**.
+- 🎓 **Education:** 4th-year Computer Science student at **ESI (Ecole Nationale Supérieure d'Informatique)** specializing in Intelligent Systems and Data.
+- 🔭 **Current Focus:** Working on optimization problems, reinforcement learning environments, agentic AI and ML pipelines.
+- 🌱 **Learning:** Deepening my knowledge in **Quantum Machine Learning**.
 - 👯 **Collaboration:** Looking to join teams for NLP, or RL projects, as well as Kaggle competitions.
 - 🤝 **Goal:** Moving from theoretical math to building practical AI solutions.
 
